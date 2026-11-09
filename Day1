@@ -1,0 +1,12 @@
+Day1 
+project/ 
+├── bergman_model.py 
+├── generate_data.py 
+├── objective.py 
+├── data/ 
+│ ├── dense_clean.csv 
+│ ├── sparse_clean.csv 
+│ ├── dense_noisy.csv 
+│ └── sparse_noisy.csv
+├── config.json 
+└── results/
